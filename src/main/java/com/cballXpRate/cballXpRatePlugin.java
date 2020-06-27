@@ -1,4 +1,4 @@
-package com.cballXpRate;
+package com.cballxprate;
 
 import lombok.Getter;
 import net.runelite.api.*;
@@ -18,13 +18,13 @@ import net.runelite.api.events.ProjectileMoved;
 import javax.inject.Inject;
 
 @PluginDescriptor(
-        name = "cballXpRatePlugin",
+        name = "cballxprate",
         description = "Calculates Slayer and Ranged XP gained per cannonball used",
         tags = {"experience", "levels", "cannon", "cannonballs", "slayer","overlay"},
         enabledByDefault = true
 )
 
-public class cballXpRatePlugin extends Plugin
+public class cballxprate extends Plugin
 {
 
     @Inject

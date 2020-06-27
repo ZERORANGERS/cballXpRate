@@ -1,4 +1,4 @@
-package com.cballxprate;
+package cballxprate;
 
 import lombok.Getter;
 import net.runelite.api.*;

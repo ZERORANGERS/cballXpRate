@@ -9,7 +9,7 @@ import net.runelite.client.ui.overlay.components.PanelComponent;
 import javax.inject.Inject;
 import java.awt.*;
 
-public class cballXpRateOverlay extends Overlay
+public class cballxprateoverlay extends Overlay
 {
     private cballxprate plugin;
 

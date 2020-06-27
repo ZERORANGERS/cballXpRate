@@ -9,14 +9,14 @@ import net.runelite.client.ui.overlay.components.PanelComponent;
 import javax.inject.Inject;
 import java.awt.*;
 
-public class cballXpRateOverlay extends Overlay
+public class cballxprateoverlay extends Overlay
 {
     private cballxprate plugin;
 
     private PanelComponent panelComponent = new PanelComponent();
 
     @Inject
-    public cballXpRateOverlay(cballxprate plugin)
+    public cballxprateoverlay(cballxprate plugin)
     {
         super(plugin);
         setPosition(OverlayPosition.TOP_LEFT);

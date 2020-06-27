@@ -1,4 +1,4 @@
-package com.cballXpRate;
+package com.cballxprate;
 
 import net.runelite.client.ui.overlay.Overlay;
 import net.runelite.client.ui.overlay.OverlayLayer;
@@ -11,12 +11,12 @@ import java.awt.*;
 
 public class cballXpRateOverlay extends Overlay
 {
-    private cballXpRate plugin;
+    private cballxprate plugin;
 
     private PanelComponent panelComponent = new PanelComponent();
 
     @Inject
-    public cballXpRateOverlay(cballXpRate plugin)
+    public cballXpRateOverlay(cballxprate plugin)
     {
         super(plugin);
         setPosition(OverlayPosition.TOP_LEFT);

@@ -1,4 +1,4 @@
-package cballxprate;
+package zerorangers.cballxprate;
 
 import lombok.Getter;
 import net.runelite.api.*;

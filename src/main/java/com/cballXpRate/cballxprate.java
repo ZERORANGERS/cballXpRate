@@ -34,7 +34,7 @@ public class cballxprate extends Plugin
     private OverlayManager overlayManager;
 
     @Inject
-    private cballxprateoverlay cballSlayerXP_overlay;
+    private cballxprateoverlay cballxprateoverlay;
 
     @Getter
     private WorldPoint cannonPosition;

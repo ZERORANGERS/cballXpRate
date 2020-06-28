@@ -24,7 +24,7 @@ import javax.inject.Inject;
         enabledByDefault = true
 )
 
-public class cballxprate extends Plugin
+public class cballXpRatePlugin extends Plugin
 {
 
     @Inject

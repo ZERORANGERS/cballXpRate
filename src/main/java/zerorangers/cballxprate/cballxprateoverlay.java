@@ -11,7 +11,7 @@ import java.awt.*;
 
 public class cballxprateoverlay extends Overlay
 {
-    private cballxprate plugin;
+    private zerorangers.cballxprate.cballXpRatePlugin plugin;
 
     private PanelComponent panelComponent = new PanelComponent();
 

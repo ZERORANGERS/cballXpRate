@@ -16,7 +16,7 @@ public class cballxprateoverlay extends Overlay
     private PanelComponent panelComponent = new PanelComponent();
 
     @Inject
-    public cballxprateoverlay(cballxprate plugin)
+    public cballxprateoverlay(zerorangers.cballxprate.cballXpRatePlugin plugin)
     {
         super(plugin);
         setPosition(OverlayPosition.TOP_LEFT);
